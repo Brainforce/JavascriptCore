@@ -1,0 +1,1 @@
+console.log("this is first code in js which in push by git command");
